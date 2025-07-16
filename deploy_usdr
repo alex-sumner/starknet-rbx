@@ -1,0 +1,6 @@
+starkli deploy \
+    0x050e2e92e523ef32392ad42e2fc4afe833474dd322c20ffc18fb95a017ff2c23 \
+    0x204FCE5E3E25026110000000 \
+    0x0 \
+    0x03CDeb60A88D0B022d6E96d7B9Fc22001ee47603355B8dc81Ab7b6D941faed5F \
+    --network=sepolia

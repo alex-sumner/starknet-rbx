@@ -1,0 +1,5 @@
+[sncast.sepolia]
+account = "sepolia"
+accounts-file = "~/.starkli-wallets/sepolia/account.json"
+rpc = "https://starknet-sepolia.g.alchemy.com/v2/WL0dBfiHAKmJNiYIcrWNPnPfVh6I4DyS"
+
